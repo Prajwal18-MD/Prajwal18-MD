@@ -6,11 +6,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_.praj.wal._/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@prajju.18gryphon)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Prajwal18-MD.Prajwal18-MD)
 
 "A Developer, A traveller, A weeb and a guy who just wants to explore everything in Life 🎓🌍‼️"
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="assests/coding.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
