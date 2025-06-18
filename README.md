@@ -21,7 +21,7 @@
 
 </br>
 
-📊 **This is what I do: **
+📊 **This is what I do:**
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
