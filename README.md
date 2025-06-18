@@ -10,7 +10,7 @@
 
 "A Developer, A traveller, A weeb and a guy who just wants to explore everything in Life 🎓🌍‼️"
 
-<img align="right" alt="GIF" src="assests/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
