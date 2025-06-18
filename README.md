@@ -21,79 +21,9 @@
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+📊 **This is what I do: **
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 103 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 56 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-🌆 Daytime                124 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-🌃 Evening                194 commits         ████████████░░░░░░░░░░░░░   46.08 % 
-🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Tuesday                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Wednesday                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Saturday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   22 repos            ████████████░░░░░░░░░░░░░   46.81 % 
-Jupyter Notebook         11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Prajwal18-MD/Prajwal18-MD/main/assets/bar_graph.png)
-
-
- Last Updated on 18/06/2025 18:06:00 UTC
 <!--END_SECTION:waka-->
 
 
