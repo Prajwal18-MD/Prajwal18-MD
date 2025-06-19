@@ -7,8 +7,6 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@prajju.18gryphon)
 
 "A Developer, A traveller, A weeb and a guy who just wants to explore everything in Life 🎓🌍‼️"
-
-<img align="right" alt="GIF" src="assets/coding.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
