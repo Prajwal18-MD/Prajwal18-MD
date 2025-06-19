@@ -2,7 +2,7 @@ name: Waka Readme Stats
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # Every day at 11:30 PM IST
+    - cron: "0 * * * *"  # Every hour at minute 0 (i.e., 12:00 AM, 1:00 AM, ..., 11:00 PM UTC)
   workflow_dispatch:
 
 jobs:
