@@ -7,7 +7,8 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@prajju.18gryphon)
 
 "A Developer, A traveller, A weeb and a guy who just wants to explore everything in Life 🎓🌍‼️"
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prajwal18-MD&label=Profile%20views&color=0e75b6&style=flat)  
 
 **Talking about Personal Stuffs:**
 
