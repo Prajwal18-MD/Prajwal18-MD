@@ -22,7 +22,7 @@
 
 📊 **This is what I do:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs-blue)
 
 📅 **I'm Most Productive on Sunday** 
 
