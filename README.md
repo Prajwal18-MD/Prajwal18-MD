@@ -22,14 +22,14 @@
 
 📊 **This is what I do:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%209%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   744 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Tuesday                  892 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Wednesday                1354 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Tuesday                  893 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Wednesday                1354 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 Thursday                 1247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 Friday                   2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 Saturday                 1611 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
